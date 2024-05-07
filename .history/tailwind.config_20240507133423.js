@@ -6,7 +6,6 @@ export default {
     extend: {
       colors: {
         gray: "#646B73",
-        whiteGray: "#CED2D4",
       },
       fontFamily: {
         montserrat: ["Montserrat, sans-serif"],
