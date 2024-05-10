@@ -17,7 +17,7 @@ export default {
         lg: "0 5px 10px #ffffff20",
       },
       gridTemplateColumns: {
-        faq: "30% 70%",
+        faq: "30% 7%",
       },
     },
   },
