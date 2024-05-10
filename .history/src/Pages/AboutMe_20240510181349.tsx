@@ -1,0 +1,20 @@
+import { Experiences, Faq, Header, LandingPage, Service } from "../Components";
+
+export const AboutMe = () => {
+  return (
+    <div className="px-8">
+      <div className="h-screen">
+        <Header />
+        <LandingPage />
+      </div>
+      <Experiences />
+      <Service />
+      <Faq />
+      <div>
+        <p className="text-gray">
+          designed by <span>MINO</span>
+        </p>
+      </div>
+    </div>
+  );
+};
